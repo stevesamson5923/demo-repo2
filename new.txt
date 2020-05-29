@@ -1,1 +1,9 @@
-Second git repository created locally demo-repo2
+ Changed again locally using feature-new-local branch
+
+<html>
+<body>
+<div> Hello From STEVE SAMSON</div>
+
+<div> Hello World</div>
+</body>
+</html>
